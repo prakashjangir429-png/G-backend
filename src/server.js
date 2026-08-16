@@ -37,7 +37,7 @@ connectDB();
 
 const app = express();
 const server = createServer(app);
-// app.use("/uploads", express.static("uploads"));
+app.use("/uploads", express.static("uploads"));
 
 // const io = new Server(server, {
 //   cors: {
