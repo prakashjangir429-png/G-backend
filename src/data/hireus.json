@@ -1,0 +1,2639 @@
+{
+  "developers": [
+    {
+      "slug": "react-developer",
+      "technology": "React.js",
+      "breadcrumb": "Hire React.js Developers",
+      "category": "Frontend",
+      "icon": "Code2",
+      "metaTitle": "Hire React.js Developers | Digitonix - Expert React Developers",
+      "metaDescription": "Hire dedicated React.js developers from Digitonix. 50+ React projects delivered, 13+ years experience. Build high-performance web applications with expert React developers.",
+      "metaKeywords": "hire react developers, react js developers, hire react js developers, react development team, react developers India",
+      "ogTitle": "Hire React.js Developers | Digitonix",
+      "ogDescription": "Hire dedicated React.js developers with 13+ years experience. Build scalable, high-performance web applications with expert React developers.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "React.js Developers",
+        "description": "Build high-performance web applications with our expert React.js developers. Digitonix provides dedicated React developers who specialize in building scalable, interactive, and SEO-friendly web applications using React.js and modern JavaScript technologies.",
+        "trustPoints": [
+          "50+ React Projects",
+          "Dedicated Developers",
+          "Flexible Hiring",
+          "98% Satisfaction"
+        ],
+        "ctaText": "Hire React Developers",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View React Portfolio",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/react-hero.jpg"
+      },
+      "overview": {
+        "tag": "Why Hire",
+        "title": "Why Hire Our",
+        "highlightedWord": "React.js",
+        "subtitle": "Developers?",
+        "description": "Our React.js developers are experts in building modern, component-based web applications. They leverage React's virtual DOM, hooks, and ecosystem to create fast, interactive, and maintainable user interfaces.",
+        "description2": "With deep expertise in React ecosystem including Redux, Next.js, and TypeScript, our developers build solutions that are not only visually appealing but also optimized for performance and SEO.",
+        "keyPoints": [
+          "Component-Based Architecture",
+          "Virtual DOM Optimization",
+          "SEO-Friendly SPAs",
+          "State Management Expertise"
+        ],
+        "benefits": [
+          {
+            "title": "Dedicated Developers",
+            "description": "Full-time commitment to your project"
+          },
+          {
+            "title": "Scalable Solutions",
+            "description": "Build applications that grow with your business"
+          },
+          {
+            "title": "Performance Focus",
+            "description": "Optimized for speed and Core Web Vitals"
+          },
+          {
+            "title": "Transparent Process",
+            "description": "Regular updates and clear communication"
+          },
+          {
+            "title": "Flexible Hiring",
+            "description": "Hourly, monthly, or project-based engagement"
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Hire",
+        "title": "Why Hire",
+        "highlightedWord": "React.js Developers",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Users",
+            "title": "Expert React Developers",
+            "description": "Our developers have 5+ years of React.js experience"
+          },
+          {
+            "icon": "Trophy",
+            "title": "50+ React Projects",
+            "description": "Proven track record in delivering successful React applications"
+          },
+          {
+            "icon": "Clock",
+            "title": "Flexible Engagement",
+            "description": "Hire developers on hourly, monthly, or project basis"
+          },
+          {
+            "icon": "Globe",
+            "title": "Global Experience",
+            "description": "Worked with clients across 25+ countries"
+          },
+          {
+            "icon": "Shield",
+            "title": "Quality Assurance",
+            "description": "Rigorous testing and code quality standards"
+          },
+          {
+            "icon": "Rocket",
+            "title": "Fast Onboarding",
+            "description": "Get started with your dedicated developer in 48 hours"
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our React.js",
+        "highlightedWord": "Developers' Expertise",
+        "description": "Our developers bring a comprehensive set of skills to your project",
+        "skills": [
+          "React.js",
+          "Next.js",
+          "Redux",
+          "TypeScript",
+          "JavaScript (ES6+)",
+          "Tailwind CSS",
+          "React Query",
+          "Zustand",
+          "Jest",
+          "React Testing Library",
+          "GraphQL",
+          "REST APIs",
+          "Git & GitHub",
+          "Webpack",
+          "Vite"
+        ]
+      },
+      "process": {
+        "tag": "Our Hiring Process",
+        "title": "How We",
+        "highlightedWord": "Hire",
+        "description": "A simple and transparent hiring process",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Share Your Requirements",
+            "description": "Tell us about your project, timeline, and developer requirements.",
+            "icon": "Search"
+          },
+          {
+            "step": "02",
+            "title": "Review Developer Profiles",
+            "description": "We share pre-vetted developer profiles matching your needs.",
+            "icon": "Users"
+          },
+          {
+            "step": "03",
+            "title": "Interview & Selection",
+            "description": "Interview developers and select the best fit for your team.",
+            "icon": "MessageSquare"
+          },
+          {
+            "step": "04",
+            "title": "Onboarding",
+            "description": "Get your dedicated developer onboarded and ready to work.",
+            "icon": "Rocket"
+          },
+          {
+            "step": "05",
+            "title": "Development",
+            "description": "Your developer starts working, with regular progress updates.",
+            "icon": "Code2"
+          },
+          {
+            "step": "06",
+            "title": "Support & Maintenance",
+            "description": "Ongoing support and maintenance for your project.",
+            "icon": "Headphones"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Flexible",
+        "highlightedWord": "Engagement Models",
+        "description": "Choose the engagement model that fits your needs",
+        "models": [
+          {
+            "name": "Hourly",
+            "price": "$25 - $45 / hour",
+            "features": [
+              "Flexible Hours",
+              "Weekly Billing",
+              "No Long-Term Commitment",
+              "Dedicated Developer",
+              "Regular Updates"
+            ],
+            "popular": false
+          },
+          {
+            "name": "Monthly",
+            "price": "$3,000 - $5,000 / month",
+            "features": [
+              "Dedicated Developer",
+              "Monthly Billing",
+              "Full-Time Commitment",
+              "Daily Updates",
+              "Performance Reviews"
+            ],
+            "popular": true
+          },
+          {
+            "name": "Project",
+            "price": "Custom Quote",
+            "features": [
+              "Fixed Project Cost",
+              "Defined Scope",
+              "Milestone-Based Payment",
+              "Complete Delivery",
+              "Post-Launch Support"
+            ],
+            "popular": false
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Our Work",
+        "title": "React.js",
+        "highlightedWord": "Success Stories",
+        "description": "See how we've helped businesses with React.js development",
+        "studies": [
+          {
+            "title": "SaaS Dashboard Development",
+            "description": "Built a real-time analytics dashboard serving 10,000+ users",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-0?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/react-saas-dashboard",
+            "category": "SaaS"
+          },
+          {
+            "title": "E-Commerce React Application",
+            "description": "High-performance e-commerce platform with 50,000+ products",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-1?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/react-ecommerce",
+            "category": "E-Commerce"
+          },
+          {
+            "title": "Enterprise React Solution",
+            "description": "Enterprise-level application with micro-frontend architecture",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-2?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/react-enterprise",
+            "category": "Enterprise"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Frequently Asked",
+        "highlightedWord": "Questions",
+        "faqs": [
+          {
+            "question": "How quickly can I hire a React.js developer?",
+            "answer": "We can provide dedicated React.js developers within 24-48 hours. We have a pool of pre-vetted developers ready to start immediately."
+          },
+          {
+            "question": "Do you provide React.js developers for long-term projects?",
+            "answer": "Yes, we offer flexible engagement options including long-term commitments. Our developers can work on multi-year projects with consistent quality."
+          },
+          {
+            "question": "What's the vetting process for React.js developers?",
+            "answer": "Our developers undergo a rigorous vetting process including technical assessments, project-based evaluations, and client communication tests."
+          },
+          {
+            "question": "Can I interview the developers before hiring?",
+            "answer": "Absolutely! We schedule interviews with shortlisted developers so you can assess their skills and fit for your project."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Technologies",
+        "technologies": [
+          {
+            "title": "Next.js",
+            "slug": "next-js",
+            "icon": "Code2"
+          },
+          {
+            "title": "Node.js",
+            "slug": "node-js",
+            "icon": "Code2"
+          },
+          {
+            "title": "TypeScript",
+            "slug": "typescript",
+            "icon": "Code2"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "next-js-developer",
+      "technology": "Next.js",
+      "breadcrumb": "Hire Next.js Developers",
+      "category": "Frontend",
+      "icon": "Globe",
+      "metaTitle": "Hire Next.js Developers | Digitonix - Dedicated NextJS Experts",
+      "metaDescription": "Hire dedicated Next.js developers from Digitonix to build blazing fast, SEO-friendly web apps. 40+ NextJS projects delivered, 13+ years experience. Get started today!",
+      "metaKeywords": "hire next js developers, nextjs development company, hire next.js developer, remote next js programmers, hire frontend developers India",
+      "ogTitle": "Hire Dedicated Next.js Developers | Digitonix",
+      "ogDescription": "Looking for production-ready Next.js developers? Hire full-time or hourly NextJS experts from Digitonix for Server-Side Rendering (SSR) and static web apps.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "Next.js Developers",
+        "description": "Build production grade, highly optimized web application with our master Next.js developers. Digitonix provide vetted Next.js programmers who are experts in Server-Side Rendering (SSR), Static Site Generation (SSG), and building fast web architectures.",
+        "trustPoints": [
+          "40+ Next.js Projects",
+          "Expert SSR Implementation",
+          "Flexible Hiring Models",
+          "Top 3% Vetted Talent"
+        ],
+        "ctaText": "Hire Next.js Developers",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "See Our Work",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/nextjs-hero.jpg"
+      },
+      "overview": {
+        "tag": "Why Next.js",
+        "title": "Why Hire Our",
+        "highlightedWord": "Next.js",
+        "subtitle": "Experts?",
+        "description": "Our Next.js developers don't just write code, they build experiences that loads instantly. They leverage App Router, API routes, and advanced caching mechanisms to deliver exceptional core web vitals.",
+        "description2": "With extensive expertise in React ecosystem, Tailwind CSS, and TypeScript, our developer makes sure your website ranks high on Google by building SEO-friendly architectures from scratch.",
+        "keyPoints": [
+          "Server-Side Rendering (SSR)",
+          "Static Site Generation (SSG)",
+          "App Router Expertise",
+          "Incremental Static Regeneration"
+        ],
+        "benefits": [
+          {
+            "title": "SEO Optimized Apps",
+            "description": "Get better rankings on search engine out of the box."
+          },
+          {
+            "title": "Blazing Fast Speed",
+            "description": "Optimized images and fonts for maximum performance."
+          },
+          {
+            "title": "Zero Management Overhead",
+            "description": "We take care of the HR and administrative things."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "The Digitonix Advantage",
+        "title": "Why Hire",
+        "highlightedWord": "Next.js Developers",
+        "subtitle": "From Us?",
+        "reasons": [
+          {
+            "icon": "Users",
+            "title": "Seasoned Developers",
+            "description": "Our senior devs have minimum 4+ years of dedicated Next.js experience."
+          },
+          {
+            "icon": "Trophy",
+            "title": "Proven Delivery Track",
+            "description": "Delivered complex e-commerce and SaaS platforms successfully."
+          },
+          {
+            "icon": "Clock",
+            "title": "Timezone Alignment",
+            "description": "Our developers overlaps at least 3-4 hours daily with your local time."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Next.js",
+        "highlightedWord": "Developers' Skillset",
+        "description": "A comprehensive tech stack that our NextJS professionals bring to the table.",
+        "skills": [
+          "Next.js (App & Pages Router)",
+          "React.js",
+          "TypeScript",
+          "SSR & SSG & ISR",
+          "Vercel Deployment",
+          "Tailwind CSS",
+          "GraphQL / REST APIs",
+          "SEO Optimization",
+          "Turbo-pack & Webpack"
+        ]
+      },
+      "process": {
+        "tag": "Vetted Hiring Process",
+        "title": "How We",
+        "highlightedWord": "Hire",
+        "description": "Get a dedicated developer in just few simple steps.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Requirement Gathering",
+            "description": "We understand your stack, project goals and team culture needs.",
+            "icon": "Search"
+          },
+          {
+            "step": "02",
+            "title": "Profile Shortlisting",
+            "description": "Get handpicked resumes of matching NextJS developers in 24 hours.",
+            "icon": "Users"
+          },
+          {
+            "step": "03",
+            "title": "Technical Interview",
+            "description": "Assess the developers yourself via live coding or discussion.",
+            "icon": "MessageSquare"
+          },
+          {
+            "step": "04",
+            "title": "Kickoff",
+            "description": "Smooth onboarding into your Slack, Jira, and GitHub channels.",
+            "icon": "Rocket"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Flexible",
+        "highlightedWord": "Engagement Models",
+        "description": "Pick the right plan that fits into your project budget.",
+        "models": [
+          {
+            "name": "Hourly Model",
+            "price": "$30 - $50 / hour",
+            "features": [
+              "No contract lock-in",
+              "Bi-weekly invoicing",
+              "Perfect for ad-hoc tasks"
+            ],
+            "popular": false
+          },
+          {
+            "name": "Monthly Dedicated",
+            "price": "$3,500 - $5,500 / month",
+            "features": [
+              "40 hours / week dedicated",
+              "Daily standups",
+              "Direct communication"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Our Portfolio",
+        "title": "Next.js",
+        "highlightedWord": "Case Studies",
+        "description": "Real world solutions delivered by our engineers.",
+        "studies": [
+          {
+            "title": "High-Traffic Media Portal",
+            "description": "Migrated a legacy site to Next.js, increasing organic traffic by 45%.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-0?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/nextjs-media-portal",
+            "category": "Media"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Frequently Asked",
+        "highlightedWord": "Questions",
+        "faqs": [
+          {
+            "question": "Can your NextJS developer migrate our React site?",
+            "answer": "Yes, absolutely. We have done multiple migrations from Create React App to Next.js for better SEO performance."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Technologies",
+        "technologies": [
+          {
+            "title": "React.js",
+            "slug": "react-developer",
+            "icon": "Code2"
+          },
+          {
+            "title": "TypeScript",
+            "slug": "typescript",
+            "icon": "Code2"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "node-js-developer",
+      "technology": "Node.js",
+      "breadcrumb": "Hire Node.js Developers",
+      "category": "Backend",
+      "icon": "Server",
+      "metaTitle": "Hire Node.js Developers | Dedicated Node Backend Experts",
+      "metaDescription": "Looking to hire Node.js developers? Build scalable, secure backend APIs and server side microservices with our expert Node JS programmers India.",
+      "metaKeywords": "hire node js developers, node.js backend engineer, remote nodejs programmer, node js development team, hire backend developers",
+      "ogTitle": "Hire Expert Node.js Backend Developers | Digitonix",
+      "ogDescription": "Scale your backend infrastructure with dedicated Node.js programmers. Fast onboarding, secure coding practices, and high-performance APIs.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "Node.js Developers",
+        "description": "Develop high throughput backend systems and lightweight real-time APIs with our top Node.js developers. Digitonix provide high caliber backend engineers who specializes in event-driven architecture and asynchronous programming.",
+        "trustPoints": [
+          "60+ Backend Systems Built",
+          "Microservices Specialists",
+          "Strict NDA & Secure Code",
+          "Ready to Deploy in 48 hrs"
+        ],
+        "ctaText": "Hire Node.js Experts",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View Backend Portfolio",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/node-hero.jpg"
+      },
+      "overview": {
+        "tag": "Backend Mastery",
+        "title": "Why Hire Our",
+        "highlightedWord": "Node.js",
+        "subtitle": "Engineers?",
+        "description": "Node.js is great for building fast network applications, but only when written by experts who understands event loops and non-blocking I/O deeply. Our developers builds enterprise ready systems that handle thousands of concurrent connections smoothly.",
+        "description2": "Whether it is integrating third party payment gateways, setting up WebSockets for real-time chats, or designing database schemas, our Node JS programmers got you covered.",
+        "keyPoints": [
+          "Event-Driven Architecture",
+          "RESTful & GraphQL APIs",
+          "Microservices Architecture",
+          "Database Optimization (SQL/NoSQL)"
+        ],
+        "benefits": [
+          {
+            "title": "Highly Scalable Code",
+            "description": "Asynchronous code optimized for heavy data loads."
+          },
+          {
+            "title": "Robust Security",
+            "description": "Protection against SQL injections, XSS, and JWT exploits."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Us",
+        "title": "Why Hire",
+        "highlightedWord": "Node.js Programmers",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Users",
+            "title": "Full-Stack Capabilities",
+            "description": "Our Node devs understand frontend well, making collaboration seamless."
+          },
+          {
+            "icon": "Shield",
+            "title": "Clean Code Standards",
+            "description": "We use ESLint, Prettier, and proper design patterns for maintainable codebases."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Node.js",
+        "highlightedWord": "Technical Stack",
+        "description": "Our engineers are proficient in modern backend toolings.",
+        "skills": [
+          "Node.js",
+          "Express.js",
+          "NestJS",
+          "TypeScript",
+          "MongoDB / PostgreSQL",
+          "Redis Caching",
+          "Docker & Microservices",
+          "Socket.io",
+          "AWS Lambda"
+        ]
+      },
+      "process": {
+        "tag": "Hiring Blueprint",
+        "title": "Our Simple",
+        "highlightedWord": "Vetting",
+        "description": "How we connect you with the ideal backend talent.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Share Requirements",
+            "description": "Tell us about your database, infrastructure, and feature roadmap.",
+            "icon": "Search"
+          },
+          {
+            "step": "02",
+            "title": "Developer Screening",
+            "description": "We pick the best matching backend profiles from our bench.",
+            "icon": "Users"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Cost-Effective",
+        "highlightedWord": "Hiring Plans",
+        "description": "Scale your backend team up or down based on development needs.",
+        "models": [
+          {
+            "name": "Hourly Basis",
+            "price": "$28 - $45 / hr",
+            "features": [
+              "Detailed time tracking via Hubstaff",
+              "Pay only for hours worked",
+              "Ideal for bug fixing"
+            ],
+            "popular": false
+          },
+          {
+            "name": "Full-Time Dedicated",
+            "price": "$3,200 - $4,800 / mo",
+            "features": [
+              "160 hours per month",
+              "Dedicated project manager",
+              "Daily code commits"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Success Story",
+        "title": "Node.js",
+        "highlightedWord": "In Action",
+        "description": "How we solved scaling bottlenecks for our clients.",
+        "studies": [
+          {
+            "title": "Real-time Logistics Tracker",
+            "description": "Built a scalable geo-tracking backend handling 5M daily API pings using Node and Redis.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-1?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/node-logistics",
+            "category": "Logistics"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Answered",
+        "faqs": [
+          {
+            "question": "Which frameworks do your Node devs use?",
+            "answer": "We are highly experienced with Express.js for simple apps and NestJS for enterprise-grade typescript structures."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Tech",
+        "technologies": [
+          {
+            "title": "Database Engineer",
+            "slug": "database-engineer",
+            "icon": "Database"
+          },
+          {
+            "title": "DevOps Engineer",
+            "slug": "devops-engineer",
+            "icon": "GitBranch"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "flutter-developer",
+      "technology": "Flutter",
+      "breadcrumb": "Hire Flutter Developers",
+      "category": "Mobile",
+      "icon": "Smartphone",
+      "metaTitle": "Hire Flutter Developers | Expert Cross-Platform Mobile Developers",
+      "metaDescription": "Hire dedicated Flutter developers to build beautiful cross-platform apps for Android and iOS using single codebase. Save up to 50% on development costs.",
+      "metaKeywords": "hire flutter developers, flutter app developer, hire remote flutter programmer, hire cross platform developers India, dedicated flutter team",
+      "ogTitle": "Hire Dedicated Flutter App Developers | Digitonix",
+      "ogDescription": "Build stunning native-like apps for iOS & Android with our expert Flutter developers. Native performance from a single codebase.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "Flutter Developers",
+        "description": "Build beautiful, natively compiled apps for mobile, web, and desktop from a single codebase. Our Flutter developers are absolute experts in Dart, BloC architecture, and building fluid animations that feels native.",
+        "trustPoints": [
+          "35+ Flutter Apps Launched",
+          "Single Codebase Specialists",
+          "Pixel-Perfect UI/UX Replicas",
+          "Flexible Monthly Contracts"
+        ],
+        "ctaText": "Hire Flutter Devs",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View Mobile Apps",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/flutter-hero.jpg"
+      },
+      "overview": {
+        "tag": "Cross-Platform Experts",
+        "title": "Why Hire Our",
+        "highlightedWord": "Flutter",
+        "subtitle": "Developers?",
+        "description": "Why pay twice for separate iOS and Android apps? Our Flutter developers writes clean, maintainable Dart code that compiles into high-performing applications across all mobile devices, saving you time and heaps of budget.",
+        "description2": "They have deep understanding of material design, Cupertino widgets, and native integrations (like camera, bluetooth, GPS) so your users get zero lag performance.",
+        "keyPoints": [
+          "Dart Language Proficiency",
+          "State Management (BloC, Provider)",
+          "Custom Widget Development",
+          "App Store & Play Store Deployment"
+        ],
+        "benefits": [
+          {
+            "title": "Fast Time-to-Market",
+            "description": "Hot reload feature speeds up development cycles drastically."
+          },
+          {
+            "title": "Cost Efficiency",
+            "description": "One team, one codebase, two platforms simultaneously."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Digitonix",
+        "title": "Why Choose Our",
+        "highlightedWord": "Flutter Experts",
+        "subtitle": "For Your App?",
+        "reasons": [
+          {
+            "icon": "Trophy",
+            "title": "UI Fidelity",
+            "description": "We match Figma designs to the exact pixel using Flutter's powerful rendering engine."
+          },
+          {
+            "icon": "Clock",
+            "title": "Agile Delivery",
+            "description": "Weekly builds sent via TestFlight or Firebase App Distribution so you can track progress."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Flutter",
+        "highlightedWord": "Capability Matrix",
+        "description": "Tech stacks and toolings our mobile team uses daily.",
+        "skills": [
+          "Flutter SDK",
+          "Dart Programming",
+          "BloC / Provider / Riverpod",
+          "REST API Integration",
+          "Firebase & Supabase",
+          "CI/CD for Mobile (Codemagic)",
+          "SQLite & Hive",
+          "Native Device Features Interaction"
+        ]
+      },
+      "process": {
+        "tag": "Our Flow",
+        "title": "How We",
+        "highlightedWord": "Onboard",
+        "description": "A structured method to get your app project running.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Discovery Session",
+            "description": "We breakdown your wireframes and functional specifications document.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Hiring",
+        "highlightedWord": "Options",
+        "description": "Flexible setups for startups and enterprises alike.",
+        "models": [
+          {
+            "name": "Monthly Sprint",
+            "price": "$3,200 - $4,500 / month",
+            "features": [
+              "Dedicated Flutter Programmer",
+              "Daily Standup Calls",
+              "Source Code Ownership"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Case Study",
+        "title": "Featured",
+        "highlightedWord": "Mobile Projects",
+        "description": "Successful apps deployed on global marketplaces.",
+        "studies": [
+          {
+            "title": "Fintech Wallet App",
+            "description": "Developed a secure multi-currency wallet with biometric login and real-time transaction history using Flutter.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-2?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/flutter-fintech",
+            "category": "Fintech"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQ",
+        "highlightedWord": "Flutter",
+        "faqs": [
+          {
+            "question": "Will the app look identical on Android and iOS?",
+            "answer": "Yes! Flutter renders everything itself, ensuring a uniform, pixel-perfect user interface across both platforms."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Technologies",
+        "technologies": [
+          {
+            "title": "React Native Dev",
+            "slug": "react-native-dev",
+            "icon": "Layers"
+          },
+          {
+            "title": "UI/UX Designer",
+            "slug": "ui-ux-designer",
+            "icon": "Palette"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "react-native-dev",
+      "technology": "React Native",
+      "breadcrumb": "Hire React Native Developers",
+      "category": "Mobile",
+      "icon": "Layers",
+      "metaTitle": "Hire React Native Developers | Dedicated Mobile App Experts",
+      "metaDescription": "Hire cross-platform React Native developers from Digitonix. Build high-quality native iOS and Android apps using JavaScript. Quick onboarding, 13+ years company experience.",
+      "metaKeywords": "hire react native developers, react native programmers, remote react native dev, mobile app developers India",
+      "ogTitle": "Hire Expert React Native Developers | Digitonix",
+      "ogDescription": "Accelerate your mobile app development timeline. Hire dedicated React Native engineers for robust cross platform app delivery.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "React Native Developers",
+        "description": "Leverage JavaScript to build native mobile apps that run incredibly fast on iOS and Android. Our React Native engineers specialize in code reusability, bridge optimization, and seamless third party integrations.",
+        "trustPoints": [
+          "45+ Mobile Apps Shipped",
+          "Reusable Code Architecture",
+          "Expertise in Expo & CLI",
+          "100% Transparency Guarantee"
+        ],
+        "ctaText": "Hire React Native Dev",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "Explore Portfolio",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/react-native-hero.jpg"
+      },
+      "overview": {
+        "tag": "Mobile Innovation",
+        "title": "Why Hire Our",
+        "highlightedWord": "React Native",
+        "subtitle": "Programmers?",
+        "description": "React Native is ideal for businesses that want a native look and feel without spending massive money on two separate codebases. Our developers write optimized JS/TS code that talks directly to native modules without performance drops.",
+        "description2": "Whether you want to build using Expo ecosystem for rapid prototyping or React Native CLI for deep customizations, our team has the exact expertise you need.",
+        "keyPoints": [
+          "Native Modules Integration",
+          "JavaScript / TypeScript Focus",
+          "Expo and Bare Workflow",
+          "Performance Tuning & Debugging"
+        ],
+        "benefits": [
+          {
+            "title": "90% Code Reuse",
+            "description": "Share core app logic between iOS and Android to cut maintenance costs."
+          },
+          {
+            "title": "Over-the-Air Updates",
+            "description": "Push immediate bug fixes directly to users without waiting for App Store approvals."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Us",
+        "title": "Why Hire",
+        "highlightedWord": "React Native Experts",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Users",
+            "title": "Experienced Team",
+            "description": "Our devs understand how to optimize JavaScript bundle sizes for fast loading."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Technical",
+        "highlightedWord": "Expertise",
+        "description": "A glance at what our React Native specialists bring on deck.",
+        "skills": [
+          "React Native CLI",
+          "Expo Framework",
+          "JavaScript / TypeScript",
+          "Redux Toolkit / Context API",
+          "Native Bridges (Java/Swift)",
+          "React Navigation",
+          "Push Notifications Setup",
+          "App Store Guidelines Compliance"
+        ]
+      },
+      "process": {
+        "tag": "How It Works",
+        "title": "Hiring",
+        "highlightedWord": "Simplified",
+        "description": "Get your dedicated mobile developers in days.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Connect",
+            "description": "Drop us a line about what your app is supposed to achieve.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Flexible",
+        "highlightedWord": "Pricing Plans",
+        "description": "No hidden costs. Completely transparent contract options.",
+        "models": [
+          {
+            "name": "Monthly Dedicated",
+            "price": "$3,400 - $5,000 / month",
+            "features": [
+              "Full-time developer assigned to you",
+              "Direct Slack communications",
+              "Daily source code push"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Our Work",
+        "title": "React Native",
+        "highlightedWord": "Success Story",
+        "description": "See how we delivered value to our clients.",
+        "studies": [
+          {
+            "title": "On-Demand Delivery App",
+            "description": "Created a high performance food and parcel delivery application with real-time map tracking.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-0?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/rn-delivery-app",
+            "category": "On-Demand"
+          }
+        ]
+      },
+      "faq": {
+        "title": "Frequently Asked",
+        "highlightedWord": "Questions",
+        "faqs": [
+          {
+            "question": "Can you migrate our existing iOS native app to React Native?",
+            "answer": "Yes, we can rebuild it or write native bridges to integrate React Native components inside your existing app."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Tech",
+        "technologies": [
+          {
+            "title": "React.js",
+            "slug": "react-developer",
+            "icon": "Code2"
+          },
+          {
+            "title": "Flutter",
+            "slug": "flutter-developer",
+            "icon": "Smartphone"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "python-developer",
+      "technology": "Python",
+      "breadcrumb": "Hire Python Developers",
+      "category": "Backend",
+      "icon": "Cpu",
+      "metaTitle": "Hire Python Developers | Django, Flask & Data Engineers India",
+      "metaDescription": "Hire dedicated Python developers for web applications, machine learning models, and automated scripts. Vetted programmers, flexible contract, 13+ years experience.",
+      "metaKeywords": "hire python developers, remote python programmer, django developer, flask backend developer, python web scraping expert",
+      "ogTitle": "Hire Remote Python Developers | Digitonix",
+      "ogDescription": "Scale your backend, AI features, or web automation scripts with certified Python experts. Hire on flexible models.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "Python Developers",
+        "description": "Build powerful web backends, artificial intelligence data models, and automated web scrapers with our specialized Python developers. Digitonix offers skilled engineers well-versed in Django, FastAPI, Flask, and data processing libraries.",
+        "trustPoints": [
+          "70+ Python Solutions Shipped",
+          "Django & FastAPI Experts",
+          "Data Engineering Specialists",
+          "Hire in 48 Hours"
+        ],
+        "ctaText": "Hire Python Experts",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "See Python Projects",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/python-hero.jpg"
+      },
+      "overview": {
+        "tag": "Versatile Backends",
+        "title": "Why Hire Our",
+        "highlightedWord": "Python",
+        "subtitle": "Programmers?",
+        "description": "Python is the undisputed king of backend agility and data science. Our developers writes incredibly clean, readable, and highly maintainable Python code adhering strictly to PEP-8 standards. They make sure your computational logic is optimized.",
+        "description2": "From complex enterprise web systems using robust Django framework to lightweight asynchronous microservices built on FastAPI, our python specialists delivers top-notch setups.",
+        "keyPoints": [
+          "Django & Flask Frameworks",
+          "FastAPI Asynchronous Systems",
+          "Data Automation & Scraping",
+          "AI/ML Model Integration"
+        ],
+        "benefits": [
+          {
+            "title": "Rapid Prototyping",
+            "description": "Python's massive ecosystem helps us deliver features significantly faster."
+          },
+          {
+            "title": "Ready for Big Data",
+            "description": "Easy integration with data pipelines, machine learning, and analytical systems."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Digitonix",
+        "title": "Why Choose Our",
+        "highlightedWord": "Python Engineers",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Shield",
+            "title": "Security First Approach",
+            "description": "Our developers are well aware of mitigating common OWASP security holes in backends."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Python",
+        "highlightedWord": "Skill Matrix",
+        "description": "Technologies our Python backend squad specializes in.",
+        "skills": [
+          "Python (PEP-8 standard)",
+          "Django / Django REST Framework",
+          "Flask / FastAPI",
+          "Pandas & NumPy",
+          "BeautifulSoup / Scrapy",
+          "PostgreSQL / MySQL / MongoDB",
+          "Celery Task Queue",
+          "PyTest Unit Testing"
+        ]
+      },
+      "process": {
+        "tag": "How We Hire",
+        "title": "Simple Hiring",
+        "highlightedWord": "Steps",
+        "description": "Onboard a Python engineer seamlessly.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Submit Requirements",
+            "description": "Let us know if you need a web developer or a data scraping specialist.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Flexible",
+        "highlightedWord": "Pricing",
+        "description": "Transparent pricing for high-quality backend engineering.",
+        "models": [
+          {
+            "name": "Monthly Engagement",
+            "price": "$3,000 - $5,000 / month",
+            "features": [
+              "Full dedicated resource",
+              "160 hours per month",
+              "Daily updates via Jira / Slack"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Our Success",
+        "title": "Python",
+        "highlightedWord": "Case Study",
+        "description": "See how we help businesses process data.",
+        "studies": [
+          {
+            "title": "AI-Powered Real Estate Evaluator",
+            "description": "Built a web platform that scrapes historical housing datasets and predicts pricing trends via FastAPI backend.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-1?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/python-real-estate",
+            "category": "AI / Data Science"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Answered",
+        "faqs": [
+          {
+            "question": "Can your Python developers handle data migration tasks?",
+            "answer": "Yes, they are highly skilled in writing custom scripts to securely migrate massive legacy databases into modern structures."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Technologies",
+        "technologies": [
+          {
+            "title": "Database Engineer",
+            "slug": "database-engineer",
+            "icon": "Database"
+          },
+          {
+            "title": "Data Analyst",
+            "slug": "data-analyst",
+            "icon": "BarChart"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "laravel-developer",
+      "technology": "Laravel",
+      "breadcrumb": "Hire Laravel Developers",
+      "category": "Backend",
+      "icon": "Code2",
+      "metaTitle": "Hire Laravel Developers | Dedicated PHP/Laravel Framework Experts",
+      "metaDescription": "Hire expert Laravel developers from Digitonix to build custom enterprise web apps, ecommerce portals, and backend APIs. Flexible models, secure coding.",
+      "metaKeywords": "hire laravel developers, laravel programmer, remote php developer, laravel web development team India",
+      "ogTitle": "Hire Dedicated Laravel Developers | Digitonix",
+      "ogDescription": "Looking for clean-code Laravel developers? Hire pre-vetted remote PHP framework experts for robust web applications.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "Laravel Developers",
+        "description": "Build secure, scalable and elegant web applications using PHP's most popular framework. Our Laravel developers excel at writing MVC compliant code, building custom packages, and implementing heavy database queries with Eloquent ORM.",
+        "trustPoints": [
+          "80+ PHP/Laravel Projects",
+          "Eloquent ORM Experts",
+          "Blade & Livewire Wizards",
+          "Secure Code Implementation"
+        ],
+        "ctaText": "Hire Laravel Developers",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View PHP Work",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/laravel-hero.jpg"
+      },
+      "overview": {
+        "tag": "PHP Masterminds",
+        "title": "Why Hire Our",
+        "highlightedWord": "Laravel",
+        "subtitle": "Developers?",
+        "description": "Laravel is built for artisan developers who love beautiful code. Our developers utilize Laravel's powerful ecosystem (like Horizon, Nova, sanctum) to build enterprise systems that don't crack under sudden traffic spikes.",
+        "description2": "They ensure database migrations, seeds, queue systems, and background workers are perfectly configured so your backend platform runs like clockwork.",
+        "keyPoints": [
+          "MVC Architecture Compliance",
+          "Eloquent ORM Optimization",
+          "RESTful API Development",
+          "Third-Party Integrations"
+        ],
+        "benefits": [
+          {
+            "title": "Incredibly Secure",
+            "description": "Built-in CSRF protection, secure passwords hashing, and SQL injection defenses."
+          },
+          {
+            "title": "Easy Maintenance",
+            "description": "Clean, modular code structure makes it extremely easy to add new features later."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Us",
+        "title": "Why Hire",
+        "highlightedWord": "Laravel Professionals",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Trophy",
+            "title": "Comprehensive Knowledge",
+            "description": "We understand full ecosystem including Blade templates, Vue.js integrations, and Livewire."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Laravel",
+        "highlightedWord": "Expertise",
+        "description": "The skills our dedicated PHP developers possess.",
+        "skills": [
+          "PHP (7.4 to 8.x+)",
+          "Laravel Framework",
+          "Eloquent ORM",
+          "MySQL / MariaDB",
+          "Redis Queue Management",
+          "REST API Development",
+          "Laravel Sanctum / Passport",
+          "Blade & Livewire Frontend",
+          "Git & Deployment Automation"
+        ]
+      },
+      "process": {
+        "tag": "Onboarding",
+        "title": "How to Hire",
+        "highlightedWord": "Laravel Devs",
+        "description": "A very straight-forward process without corporate delays.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Briefing",
+            "description": "Send us your app idea or your existing legacy PHP code setup.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Flexible",
+        "highlightedWord": "Engagement Plans",
+        "description": "Choose a contract style that works for your cash flow.",
+        "models": [
+          {
+            "name": "Dedicated Resource",
+            "price": "$2,800 - $4,200 / month",
+            "features": [
+              "Full-time developer focus",
+              "Daily communication logs",
+              "Strict adherence to timelines"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Portfolio",
+        "title": "Laravel",
+        "highlightedWord": "Success Stories",
+        "description": "Web apps we've delivered using Laravel framework.",
+        "studies": [
+          {
+            "title": "Custom B2B Vendor Portal",
+            "description": "Built a multi-vendor inventory system managing over 100k SKUs effortlessly using Laravel queues.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-2?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/laravel-b2b-portal",
+            "category": "Enterprise B2B"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Answered",
+        "faqs": [
+          {
+            "question": "Can your Laravel developers work with frontend frameworks like Vue or React?",
+            "answer": "Yes, our developers are highly comfortable building decoupled headless backends or integrating Vue/React inside Laravel templates."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Tech",
+        "technologies": [
+          {
+            "title": "Node.js",
+            "slug": "node-js-developer",
+            "icon": "Server"
+          },
+          {
+            "title": "WordPress",
+            "slug": "wordpress-developer",
+            "icon": "Globe"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "wordpress-developer",
+      "technology": "WordPress",
+      "breadcrumb": "Hire WordPress Developers",
+      "category": "CMS & OpenSource",
+      "icon": "Globe",
+      "metaTitle": "Hire WordPress Developers | Custom Theme & WooCommerce Experts",
+      "metaDescription": "Hire dedicated WordPress developers to build high converting WooCommerce stores and custom elementor/gutenberg themes. Clean code, fast speeds, SEO friendly.",
+      "metaKeywords": "hire wordpress developers, wordpress custom theme developer, remote woocommerce expert, hire elementor developer India",
+      "ogTitle": "Hire Expert WordPress Developers | Digitonix",
+      "ogDescription": "Get rid of bloated plugins. Hire dedicated WordPress programmers who write custom lightweight code and build hyper fast business websites.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "WordPress Developers",
+        "description": "Build fast, secure, and fully customized corporate websites or heavy e-commerce stores with our WordPress professionals. Say goodbye to bloated themes; we write lean custom PHP codes for maximum speed.",
+        "trustPoints": [
+          "150+ WordPress Sites Built",
+          "WooCommerce Specialists",
+          "Page Speed Optimization Masters",
+          "Custom Plugin Engineering"
+        ],
+        "ctaText": "Hire WordPress Experts",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View WP Sites",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/wordpress-hero.jpg"
+      },
+      "overview": {
+        "tag": "CMS Specialists",
+        "title": "Why Hire Our",
+        "highlightedWord": "WordPress",
+        "subtitle": "Wizards?",
+        "description": "Anyone can install a WordPress theme, but building an optimized business asset requires professional engineering. Our developers creates custom themes from scratch or builds custom plugins so you don't depend on third-party subscriptions.",
+        "description2": "We focus massively on core web vitals, ensuring clean database calls, image optimization, and advanced page caching so your score hits green on Google PageSpeed Insights.",
+        "keyPoints": [
+          "Custom Theme Development",
+          "WooCommerce Customization",
+          "Plugin Modification & Creation",
+          "Speed Optimization & Security Fixes"
+        ],
+        "benefits": [
+          {
+            "title": "90+ PageSpeed Scores",
+            "description": "We optimize code assets to load under 2 seconds."
+          },
+          {
+            "title": "Hardened WP Security",
+            "description": "Malware protection, secure configurations, and scheduled backups setup."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "The Digitonix Edge",
+        "title": "Why Work With Our",
+        "highlightedWord": "WordPress Developers",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Users",
+            "title": "No Bloated Templates",
+            "description": "We prefer custom blocks (Gutenberg) or light elementor builds to ensure site longevity."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our WordPress",
+        "highlightedWord": "Tech Mastery",
+        "description": "Comprehensive skillsets our WordPress team possesses.",
+        "skills": [
+          "WordPress Core & PHP",
+          "Custom Theme Hooking",
+          "WooCommerce Development",
+          "Advanced Custom Fields (ACF)",
+          "Gutenberg Block Editor",
+          "Elementor / Divi Customizations",
+          "WP REST API",
+          "Database Sanitization",
+          "Website Migration & Security"
+        ]
+      },
+      "process": {
+        "tag": "Hiring Funnel",
+        "title": "How We",
+        "highlightedWord": "Get Started",
+        "description": "Get your web platform live in no time.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Project Discovery",
+            "description": "Provide us references or designs you want developed on WordPress.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Affordable",
+        "highlightedWord": "Engagement Models",
+        "description": "Hire according to your budget requirements.",
+        "models": [
+          {
+            "name": "Fixed Project",
+            "price": "Custom Quote",
+            "features": [
+              "Milestone based delivery",
+              "Great for complete new site builds",
+              "30 days post launch support"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Recent Delivery",
+        "title": "WordPress",
+        "highlightedWord": "Showcase",
+        "description": "Websites built and optimized by our remote web engineers.",
+        "studies": [
+          {
+            "title": "Corporate Consulting Portal",
+            "description": "Created a lightweight custom-coded theme with advanced service filters, slashing load time from 6.5s to 1.8s.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-0?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/wp-consulting",
+            "category": "Corporate Website"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Resolved",
+        "faqs": [
+          {
+            "question": "Can you fix a hacked WordPress website?",
+            "answer": "Yes, we have a malware cleanup service. Our developers can clean your database, update source files and harden the configurations."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Tech Solutions",
+        "technologies": [
+          {
+            "title": "UI/UX Designer",
+            "slug": "ui-ux-designer",
+            "icon": "Palette"
+          },
+          {
+            "title": "Laravel Developer",
+            "slug": "laravel-developer",
+            "icon": "Code2"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ui-ux-designer",
+      "technology": "UI/UX Design",
+      "breadcrumb": "Hire UI/UX Designers",
+      "category": "Design",
+      "icon": "Palette",
+      "metaTitle": "Hire UI/UX Designers | Top Figma Product Designers Digitonix",
+      "metaDescription": "Hire dedicated UI/UX designers from Digitonix to craft beautiful, intuitive wireframes and prototypes in Figma. High-converting user experience focus.",
+      "metaKeywords": "hire ui ux designers, hire figma designer, remote product designer, user experience design company, hire web designers",
+      "ogTitle": "Hire Dedicated UI/UX Product Designers | Digitonix",
+      "ogDescription": "Turn your rough concept into high fidelity mockups. Hire certified UI/UX designers expert in Figma, wireframing, and user research.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "UI/UX Designers",
+        "description": "Transform your product ideas into interactive, breathtaking and human-centric visual user interfaces. Our designers map out intuitive user journeys, high fidelity wireframes and structured design systems inside Figma.",
+        "trustPoints": [
+          "100+ Digital Products Designed",
+          "Figma & Adobe XD Experts",
+          "Focus on Conversion & Retention",
+          "Interactive Prototypes Ready"
+        ],
+        "ctaText": "Hire Top Designers",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View Design Folio",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/uiux-hero.jpg"
+      },
+      "overview": {
+        "tag": "Design Excellence",
+        "title": "Why Hire Our",
+        "highlightedWord": "UI/UX",
+        "subtitle": "Designers?",
+        "description": "A bad design costs businesses users. Our UI/UX design professionals conducts user research, building realistic personas to make sure every button click and layout placement makes perfect logical sense to the end-user.",
+        "description2": "They design comprehensive design systems with reusable components, typography scales and clear color styles making it super easy for developers to write the code.",
+        "keyPoints": [
+          "Wireframing & Prototyping",
+          "User Journey Mapping (UX)",
+          "Figma Component Systems",
+          "Mobile & Web Responsive Designs"
+        ],
+        "benefits": [
+          {
+            "title": "Higher User Engagement",
+            "description": "Clean, logical layouts that keep users hooked and reduces bounce rates."
+          },
+          {
+            "title": "Developer-Ready Handoff",
+            "description": "Perfect Figma organization with asset folders for swift development."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Digitonix Design",
+        "title": "Why Choose Our",
+        "highlightedWord": "Product Designers",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Users",
+            "title": "Data-Backed Design",
+            "description": "We don't just guess placements; we design based on modern user behavior psychology."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Designers'",
+        "highlightedWord": "Toolkits",
+        "description": "Tools and skillsets our design studio relies upon.",
+        "skills": [
+          "Figma",
+          "Adobe XD / Photoshop",
+          "Wireframing & Storyboarding",
+          "Interactive Clickable Prototyping",
+          "Design Systems Creation",
+          "User Research & Testing",
+          "Mobile App Design (iOS/Android)",
+          "Responsive Grid Layouts"
+        ]
+      },
+      "process": {
+        "tag": "Creative Method",
+        "title": "Our Creative",
+        "highlightedWord": "Process",
+        "description": "How we turn ideas into interactive wireframes.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Empathize & Define",
+            "description": "We study your audience, market competitors and establish the user goals.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Flexible",
+        "highlightedWord": "Design Models",
+        "description": "Hire by the hour or secure a dedicated designer for long term product sprints.",
+        "models": [
+          {
+            "name": "Monthly Sprint",
+            "price": "$2,500 - $4,000 / month",
+            "features": [
+              "Full time creative expert",
+              "Unlimited design revisions",
+              "Daily review sessions on Slack"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Design Case Study",
+        "title": "Featured",
+        "highlightedWord": "UI/UX Work",
+        "description": "Beautiful user experiences brought to reality.",
+        "studies": [
+          {
+            "title": "SaaS CRM UX Redesign",
+            "description": "Re-engineered a clunky enterprise desktop interface into a sleek, component-driven SaaS web design, lifting user activity by 60%.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-1?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/crm-ux-design",
+            "category": "SaaS Design"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Answered",
+        "faqs": [
+          {
+            "question": "Do your UI/UX designers write code like HTML/CSS?",
+            "answer": "No, our designers focus 100% on research, layouts and Figma prototypes. However, they structure designs so front-end developers can extract CSS styles instantly."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Fields",
+        "technologies": [
+          {
+            "title": "React.js",
+            "slug": "react-developer",
+            "icon": "Code2"
+          },
+          {
+            "title": "Next.js",
+            "slug": "next-js-developer",
+            "icon": "Globe"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "devops-engineer",
+      "technology": "DevOps",
+      "breadcrumb": "Hire DevOps Engineers",
+      "category": "Infrastructure",
+      "icon": "GitBranch",
+      "metaTitle": "Hire DevOps Engineers | CI/CD, Kubernetes & Docker Experts",
+      "metaDescription": "Hire dedicated DevOps engineers to automate your software deployment pipeline, manage cloud architectures, and reduce server costs. Get expert consulting.",
+      "metaKeywords": "hire devops engineers, remote cloud automation devops, cloud infrastructure management, kubernetes consulting, hire ci cd engineer India",
+      "ogTitle": "Hire Dedicated DevOps Automation Engineers | Digitonix",
+      "ogDescription": "Minimize downtime and automate infrastructure. Hire experienced DevOps pros for AWS, Docker, Kubernetes, and secure pipelines.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "DevOps Engineers",
+        "description": "Automate your software deployment life cycle, orchestrate secure container networks, and scale cloud infrastructure. Our DevOps engineers specialized in zero-downtime deployments, CI/CD pipelines, and cloud billing optimizations.",
+        "trustPoints": [
+          "50+ Cloud Pipelines Built",
+          "Kubernetes & Docker Masters",
+          "Zero-Downtime Deployments",
+          "Security & IAM Hardening"
+        ],
+        "ctaText": "Hire DevOps Engineer",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View Infrastructure Work",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/devops-hero.jpg"
+      },
+      "overview": {
+        "tag": "Cloud & Automation",
+        "title": "Why Hire Our",
+        "highlightedWord": "DevOps",
+        "subtitle": "Architects?",
+        "description": "Manual deployments are highly prone to human error and unexpected server crash. Our DevOps pros build reliable Infrastructure as Code (IaC) architectures using Terraform so you can spin up servers or replicate test environments in seconds.",
+        "description2": "They integrate rigorous automated testing checks into your GitHub actions or GitLab pipelines, making sure bad codes never hits production servers.",
+        "keyPoints": [
+          "CI/CD Pipeline Construction",
+          "Infrastructure as Code (Terraform)",
+          "Containerization (Docker & K8s)",
+          "Server Monitoring & Alerting"
+        ],
+        "benefits": [
+          {
+            "title": "Reduced Cloud Spending",
+            "description": "We optimize instance sizing, auto-scaling rules and cleanup unused assets to cut costs."
+          },
+          {
+            "title": "99.99% App Uptime",
+            "description": "Automated recovery plans and load balancers to distribute high spikes of web traffic."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Us",
+        "title": "Why Hire",
+        "highlightedWord": "DevOps Experts",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Shield",
+            "title": "DevSecOps Integration",
+            "description": "We inject security scanning right inside the build process to capture vulnerabilities early."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our DevOps",
+        "highlightedWord": "Technical Stack",
+        "description": "Tools our cloud infrastructure engineers manipulate daily.",
+        "skills": [
+          "AWS / GCP / Azure",
+          "Docker / Containerization",
+          "Kubernetes (K8s) Cluster Management",
+          "Terraform (IaC)",
+          "Jenkins / GitHub Actions / GitLab CI",
+          "Linux Server Administration",
+          "Prometheus & Grafana Monitoring",
+          "Nginx & Load Balancing Setup"
+        ]
+      },
+      "process": {
+        "tag": "Our Flow",
+        "title": "How We",
+        "highlightedWord": "Optimize",
+        "description": "Structured onboarding for complex environments.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Audit Current Setup",
+            "description": "We analyze your present cloud console architecture and code delivery flows.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Flexible",
+        "highlightedWord": "Cloud Plans",
+        "description": "Engagement styles that fits startup growth budgets.",
+        "models": [
+          {
+            "name": "Hourly Operations",
+            "price": "$35 - $60 / hour",
+            "features": [
+              "Perfect for one-time pipeline configuration",
+              "Detailed activity breakdown sheets",
+              "Emergency support SLA available"
+            ],
+            "popular": false
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Success Records",
+        "title": "DevOps",
+        "highlightedWord": "Case Study",
+        "description": "Real examples of infrastructure modernization.",
+        "studies": [
+          {
+            "title": "Microservices Migration",
+            "description": "Containerized a massive monolithic application into AWS EKS (Kubernetes), reducing deployment intervals from hours down to 5 minutes.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-2?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/devops-microservices",
+            "category": "Cloud Migration"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Answered",
+        "faqs": [
+          {
+            "question": "Which cloud providers do your engineers support?",
+            "answer": "We support all major cloud vendors, with heavy specialization in Amazon Web Services (AWS), Google Cloud Platform (GCP) and DigitalOcean."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Tech",
+        "technologies": [
+          {
+            "title": "AWS Cloud Architect",
+            "slug": "aws-cloud-architect",
+            "icon": "Cloud"
+          },
+          {
+            "title": "Node.js",
+            "slug": "node-js-developer",
+            "icon": "Server"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "aws-cloud-architect",
+      "technology": "AWS Cloud",
+      "breadcrumb": "Hire AWS Architects",
+      "category": "Infrastructure",
+      "icon": "Cloud",
+      "metaTitle": "Hire AWS Cloud Architects | Certified AWS Solution Experts",
+      "metaDescription": "Hire certified AWS cloud architects from Digitonix. Design highly available, fault-tolerant, and secure cloud topologies on Amazon Web Services. Request quote.",
+      "metaKeywords": "hire aws architects, certified cloud architect, remote aws consulting, amazon web services expert, cloud cost optimization India",
+      "ogTitle": "Hire Certified AWS Solutions Architects | Digitonix",
+      "ogDescription": "Migrate workloads to AWS securely. Hire seasoned cloud infrastructure architects for scalable corporate networks.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "AWS Cloud Architects",
+        "description": "Design secure, highly resilient, and fully optimized cloud architectures on Amazon Web Services. Our architects are certified solutions professionals who specialize in serverless setups, VPC networking, and cloud cost management.",
+        "trustPoints": [
+          "AWS Certified Architects",
+          "Serverless Specialist Team",
+          "Up to 40% Cost Reductions",
+          "Enterprise Grade Cloud Topologies"
+        ],
+        "ctaText": "Hire AWS Architect",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View Infrastructure Work",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/aws-hero.jpg"
+      },
+      "overview": {
+        "tag": "Cloud Mastery",
+        "title": "Why Hire Our",
+        "highlightedWord": "AWS Cloud",
+        "subtitle": "Architects?",
+        "description": "Amazon Web Services has hundreds of individual services; picking the wrong one can blow up your budget unexpectedly. Our architects map out your systems according to the AWS Well-Architected Framework, maximizing security and scalability.",
+        "description2": "Whether you want to build a fully serverless backend with Lambda, configure multi-region RDS databases for high disaster recovery, or set up secure IAM hierarchies, we manage it correctly.",
+        "keyPoints": [
+          "AWS Well-Architected Framework",
+          "Serverless Architecture (Lambda/API Gateway)",
+          "VPC, IAM & Security Groups Configuration",
+          "Cost Allocation & Budget Management"
+        ],
+        "benefits": [
+          {
+            "title": "Massive Cost Savings",
+            "description": "We identify idling compute structures and implement smart storage tiering to shave bills."
+          },
+          {
+            "title": "Disaster Recovery Strategy",
+            "description": "Multi-region fallback structures to keep your business operating under heavy failures."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "AWS Expertise",
+        "title": "Why Pick Our",
+        "highlightedWord": "Cloud Architects",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Trophy",
+            "title": "Certified Competence",
+            "description": "Our experts carry verified AWS Solutions Architect Professional certifications."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our AWS",
+        "highlightedWord": "Tech Stack Proficiency",
+        "description": "Amazon cloud technologies our team configures natively.",
+        "skills": [
+          "AWS EC2 / ECS / EKS",
+          "AWS Lambda (Serverless)",
+          "Amazon RDS (PostgreSQL/MySQL)",
+          "Amazon S3 & CloudFront CDN",
+          "VPC Networking & IAM Rules",
+          "AWS CloudWatch & CloudTrail",
+          "DynamoDB NoSQL Data Store",
+          "AWS Route 53 DNS Routing"
+        ]
+      },
+      "process": {
+        "tag": "Our Framework",
+        "title": "How We",
+        "highlightedWord": "Architect",
+        "description": "Seamless translation of functional requirements into cloud topology blueprints.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Requirement Discovery",
+            "description": "We analyze data compliance laws, target traffic scales, and user distribution locations.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Strategic",
+        "highlightedWord": "Consulting Plans",
+        "description": "Hire an architect part-time or for explicit cloud building projects.",
+        "models": [
+          {
+            "name": "Cloud Advisory Model",
+            "price": "Custom Quote",
+            "features": [
+              "Complete system structural blueprinting",
+              "IAM hierarchy setups",
+              "Cost review breakdown"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Cloud Records",
+        "title": "AWS Success",
+        "highlightedWord": "Case Study",
+        "description": "Real world business architectures built from scratch.",
+        "studies": [
+          {
+            "title": "Serverless Enterprise Migration",
+            "description": "Migrated a legacy web app into fully serverless components using Lambda, cutting cloud computing cost overheads by 42%.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-0?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/aws-serverless-migration",
+            "category": "Serverless Migration"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Answered",
+        "faqs": [
+          {
+            "question": "Can you audit our existing AWS bills to lower it?",
+            "answer": "Yes, cost optimization is a major part of what our architects do. We inspect cloud spending leaks and fix them immediately."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Services",
+        "technologies": [
+          {
+            "title": "DevOps Engineer",
+            "slug": "devops-engineer",
+            "icon": "GitBranch"
+          },
+          {
+            "title": "Database Engineer",
+            "slug": "database-engineer",
+            "icon": "Database"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "database-engineer",
+      "technology": "Databases",
+      "breadcrumb": "Hire Database Engineers",
+      "category": "Backend",
+      "icon": "Database",
+      "metaTitle": "Hire Database Engineers | SQL, NoSQL & Data Modeler Experts",
+      "metaDescription": "Hire dedicated database engineers and remote DBAs from Digitonix. Optimize slow queries, design robust schemas, and ensure absolute data consistency. Contact us.",
+      "metaKeywords": "hire database engineers, remote dba specialist, sql query optimization expert, postgreSQL administrator, nosql data modeler",
+      "ogTitle": "Hire Expert Database Engineers & DBAs | Digitonix",
+      "ogDescription": "Fix slow loading database queries and eliminate structural redundancies. Hire pre-vetted database architects for high performance data handling.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "Database Engineers",
+        "description": "Design robust data models, tune high-latency query codes, and optimize production databases for blazing-fast indexing. Our engineers are experts in relational SQL systems and unstructured NoSQL configurations.",
+        "trustPoints": [
+          "90+ Scalable Schemas Created",
+          "SQL/NoSQL Infrastructure Masters",
+          "Query Optimization Specialists",
+          "Data Encryption Experts"
+        ],
+        "ctaText": "Hire Database Expert",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "Explore Portfolio",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/database-hero.jpg"
+      },
+      "overview": {
+        "tag": "Data Architecture",
+        "title": "Why Hire Our",
+        "highlightedWord": "Database",
+        "subtitle": "Engineers?",
+        "description": "When applications start lagging, the culprit is almost always poorly written database queries or unindexed columns. Our database engineers build clean normalizations, manage database replication, and set up streaming write sharding so your apps stay responsive.",
+        "description2": "They have extensive knowledge across open-source giants like PostgreSQL and MySQL, alongside enterprise cloud NoSQL storage variants like DynamoDB and MongoDB.",
+        "keyPoints": [
+          "Database Index Tuning",
+          "Schema Design & Normalization",
+          "Sharding & Replication Setups",
+          "Data Migration & ETL Processing"
+        ],
+        "benefits": [
+          {
+            "title": "Sub-millisecond Query Responses",
+            "description": "We optimize indexing structures so queries fetch matching data instantly."
+          },
+          {
+            "title": "Zero Loss Failover",
+            "description": "Master-slave replication setups ensuring maximum safety against sudden drive corruption."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Data Experts",
+        "title": "Why Trust Our",
+        "highlightedWord": "Database Engineers",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Shield",
+            "title": "Absolute Data Security",
+            "description": "We enforce strict encryption at rest and in transit, securing sensitive user logs completely."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Database",
+        "highlightedWord": "Tech Specialization",
+        "description": "Engine technologies our specialized engineers configure smoothly.",
+        "skills": [
+          "PostgreSQL / MySQL",
+          "MongoDB / DynamoDB",
+          "Redis Memory Caching",
+          "SQL Query Optimization",
+          "Database Sharding & Partitioning",
+          "ETL Pipeline Engineering",
+          "Backup & Restoration Scripts",
+          "Stored Procedures & Triggers"
+        ]
+      },
+      "process": {
+        "tag": "How We Operate",
+        "title": "The Selection",
+        "highlightedWord": "Blueprint",
+        "description": "Get expert data administrators integrated into your tech project workflow.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Data Audit",
+            "description": "We identify your current record volume growth patterns and database latency issues.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Hiring",
+        "highlightedWord": "Setups",
+        "description": "Flexible plans tailored for specialized engineering needs.",
+        "models": [
+          {
+            "name": "Project Basis Consulting",
+            "price": "Custom Quote",
+            "features": [
+              "Complete schema restructuring blueprints",
+              "Query fine-tuning sprints",
+              "Secure migration script handovers"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Data Milestones",
+        "title": "Database",
+        "highlightedWord": "Optimization Success",
+        "description": "How we resolved data processing bottlenecks.",
+        "studies": [
+          {
+            "title": "E-Commerce Database Tuning",
+            "description": "Optimized complex product search queries over 20M data records, dropping server CPU strain down from 95% to 15%.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-1?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/db-ecommerce-tuning",
+            "category": "Performance Tuning"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Answered",
+        "faqs": [
+          {
+            "question": "Can your engineers migrate data from MySQL to PostgreSQL?",
+            "answer": "Yes, we handle deep schema cross-mapping and secure ETL scripts execution without causing app downtime."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Tech Nodes",
+        "technologies": [
+          {
+            "title": "Node.js",
+            "slug": "node-js-developer",
+            "icon": "Server"
+          },
+          {
+            "title": "Python",
+            "slug": "python-developer",
+            "icon": "Cpu"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "ios-developer",
+      "technology": "iOS (Swift)",
+      "breadcrumb": "Hire iOS Developers",
+      "category": "Mobile",
+      "icon": "Smartphone",
+      "metaTitle": "Hire iOS Developers | Dedicated Swift & Apple Ecosystem Experts",
+      "metaDescription": "Hire dedicated iOS app developers from Digitonix to build premium, high performance iPhone and iPad apps using Swift and SwiftUI. Get started now.",
+      "metaKeywords": "hire ios developers, remote swift programmer, swiftUI app developer, native iPhone developer India",
+      "ogTitle": "Hire Dedicated iOS Developers | Digitonix",
+      "ogDescription": "Build beautiful, premium native iOS applications. High-performance Swift engineers vetted and ready to join your development sprint.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "iOS Developers",
+        "description": "Develop premium, feature-rich and completely native mobile applications for iPhone, iPad, and Apple Watch. Our specialized iOS engineers are absolute masters of Swift, SwiftUI, and App Store design guidelines.",
+        "trustPoints": [
+          "50+ iOS Apps Published",
+          "Swift & SwiftUI Specialists",
+          "Strict App Store Compliance",
+          "Smooth Onboarding Process"
+        ],
+        "ctaText": "Hire iOS Programmer",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View iOS Apps",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/ios-hero.jpg"
+      },
+      "overview": {
+        "tag": "Native iOS Mastery",
+        "title": "Why Hire Our",
+        "highlightedWord": "iOS",
+        "subtitle": "Specialists?",
+        "description": "Apple users expect an extremely premium, fluid user experience with absolutely zero lag. Our iOS developers build high-performance applications leveraging native frameworks like CoreData, Combine, and Apple's powerful rendering systems.",
+        "description2": "They write clean, decoupled Swift code using modern architectures (like MVVM) so your application can scale beautifully over the years without turning into confusing code mess.",
+        "keyPoints": [
+          "Swift & SwiftUI UI Building",
+          "MVVM Clean Code Architecture",
+          "CoreData Local Storage Setup",
+          "Apple Store Distribution Work"
+        ],
+        "benefits": [
+          {
+            "title": "Premium Native UX",
+            "description": "Silky-smooth UI transitions that run natively on Apple hardware at high frame rates."
+          },
+          {
+            "title": "Flawless Store Approvals",
+            "description": "We design and build following Apple's strict human interface guidelines to prevent app rejections."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Us",
+        "title": "Why Hire",
+        "highlightedWord": "iOS Professionals",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Trophy",
+            "title": "Ecosystem Experts",
+            "description": "We understand push notifications, Apple Pay integrations, and background widget configurations inside out."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our iOS",
+        "highlightedWord": "Technical Matrix",
+        "description": "Frameworks and languages our specialized Apple developers leverage.",
+        "skills": [
+          "Swift Language",
+          "SwiftUI Framework",
+          "UIKit Legacy Handling",
+          "CoreData / Realm Storage",
+          "MVVM Design Patterns",
+          "Apple Pay Integration",
+          "Cocoapods & Swift Package Manager",
+          "TestFlight Testing Setup"
+        ]
+      },
+      "process": {
+        "tag": "Hiring Blueprint",
+        "title": "How to Onboard",
+        "highlightedWord": "iOS Talent",
+        "description": "Get certified native application builders on your team swiftly.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Project Scope Analysis",
+            "description": "Share your app designs, wireframes, and required Apple feature lists.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Flexible",
+        "highlightedWord": "Engagement Plans",
+        "description": "Hire full-time developers or on an hourly basis for small app updates.",
+        "models": [
+          {
+            "name": "Monthly Dedicated",
+            "price": "$3,800 - $5,500 / month",
+            "features": [
+              "100% dedicated native developer",
+              "Daily code updates via GitHub",
+              "Direct interaction over Slack / Teams"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Mobile Work",
+        "title": "iOS Success",
+        "highlightedWord": "Case Study",
+        "description": "Premium iOS application deployed on the Apple App Store.",
+        "studies": [
+          {
+            "title": "Premium Subscription Fitness App",
+            "description": "Built a stunning SwiftUI wellness application featuring offline localized workout caching and CoreMotion calorie tracking integrations.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-2?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/ios-fitness-app",
+            "category": "Healthcare Mobile"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Answered",
+        "faqs": [
+          {
+            "question": "Do your developers use SwiftUI or UIKit?",
+            "answer": "We prefer SwiftUI for building modern layouts rapidly, but we have strong expertise in UIKit for legacy code bases and complex layout structures."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Tech Options",
+        "technologies": [
+          {
+            "title": "Android Developer",
+            "slug": "android-developer",
+            "icon": "Smartphone"
+          },
+          {
+            "title": "Flutter Developer",
+            "slug": "flutter-developer",
+            "icon": "Smartphone"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "android-developer",
+      "technology": "Android (Kotlin)",
+      "breadcrumb": "Hire Android Developers",
+      "category": "Mobile",
+      "icon": "Smartphone",
+      "metaTitle": "Hire Android Developers | Dedicated Kotlin & Mobile Experts",
+      "metaDescription": "Hire dedicated Android app developers from Digitonix. Build high-performance Kotlin applications optimized for all smartphone screen form factors. Contact us.",
+      "metaKeywords": "hire android developers, remote kotlin programmer, native android app developer, hire mobile programmers India",
+      "ogTitle": "Hire Dedicated Android App Engineers | Digitonix",
+      "ogDescription": "Build highly secure, stable Android apps. Hire pre-vetted native Kotlin developers ready to integrate into your engineering workflow.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "Android Developers",
+        "description": "Build high-performance, robust native applications for the massive Android ecosystem. Our developers are absolute masters of Kotlin, Jetpack Compose, and building layouts that render flawlessly across thousands of diverse devices.",
+        "trustPoints": [
+          "55+ Android Apps Shipped",
+          "Kotlin & Jetpack Compose Experts",
+          "Fragmented Screen Optimizations",
+          "Secure Play Store Publishing"
+        ],
+        "ctaText": "Hire Android Developer",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "See Mobile Work",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/android-hero.jpg"
+      },
+      "overview": {
+        "tag": "Native Android",
+        "title": "Why Hire Our",
+        "highlightedWord": "Android",
+        "subtitle": "Engineers?",
+        "description": "Unlike iOS, Android runs on thousands of different phone models with varied screens and processor chips. Our developers write extremely adaptive, native Kotlin code utilizing modern Jetpack libraries to ensure your app never drops frames.",
+        "description2": "They focus heavily on memory allocation optimization, efficient background background workers, and secure local encrypted database storage routines.",
+        "keyPoints": [
+          "Kotlin & Jetpack Compose Mastery",
+          "Adaptive Material UI Layouts",
+          "Room Database Cache Setups",
+          "Retrofit Networking Optimization"
+        ],
+        "benefits": [
+          {
+            "title": "Hardware Optimization",
+            "description": "Seamless integrations with device cameras, biometrics, Bluetooth, and internal GPS sensors."
+          },
+          {
+            "title": "High Device Compatibility",
+            "description": "Rigorous testing across diverse screen form-factors to prevent broken UI layouts."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Us",
+        "title": "Why Choose Our",
+        "highlightedWord": "Kotlin Engineers",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Users",
+            "title": "Clean Architecture Focus",
+            "description": "We leverage clean architecture design rules to keep business rules completely detached from platform views."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Android",
+        "highlightedWord": "Technical Capabilities",
+        "description": "Modern tooling skillsets our Android engineering branch brings along.",
+        "skills": [
+          "Kotlin Language",
+          "Jetpack Compose UI Framework",
+          "Android Studio & Gradle",
+          "Room Local DB Architecture",
+          "Coroutines for Multithreading",
+          "Retrofit API Networking",
+          "Google Play Console Work",
+          "Firebase Crashlytics Logging"
+        ]
+      },
+      "process": {
+        "tag": "Onboarding",
+        "title": "How We",
+        "highlightedWord": "Connect",
+        "description": "A very straight-forward mobile dev sourcing flow.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Submit App Brief",
+            "description": "Detail out your user specifications, backend system hooks, and target timeline goals.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Flexible",
+        "highlightedWord": "Hiring Contracts",
+        "description": "Scale up your internal mobile team power seamlessly.",
+        "models": [
+          {
+            "name": "Monthly Plan",
+            "price": "$3,500 - $5,200 / month",
+            "features": [
+              "Full-time developer assignment",
+              "Daily commits pushed onto Git",
+              "Regular visual builds via Firebase"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "App Records",
+        "title": "Android",
+        "highlightedWord": "Success Stories",
+        "description": "Highly responsive native applications launched globally.",
+        "studies": [
+          {
+            "title": "Hyperlocal Marketplace App",
+            "description": "Engineered a rapid reactive Kotlin app linking thousands of local retail merchants with geo-located buyers in real time.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-1?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/android-hyperlocal",
+            "category": "E-Commerce App"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Resolved",
+        "faqs": [
+          {
+            "question": "Do you migrate old Java applications into Kotlin?",
+            "answer": "Yes, we handle deep code translation refactoring, converting legacy Java setups into optimized, readable Kotlin codebase formats."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Tech Options",
+        "technologies": [
+          {
+            "title": "iOS Developer",
+            "slug": "ios-developer",
+            "icon": "Smartphone"
+          },
+          {
+            "title": "Flutter Developer",
+            "slug": "flutter-developer",
+            "icon": "Smartphone"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "cybersecurity-expert",
+      "technology": "Cybersecurity",
+      "breadcrumb": "Hire Cybersecurity Experts",
+      "category": "Security",
+      "icon": "Shield",
+      "metaTitle": "Hire Cybersecurity Experts | Penetration Testers & InfoSec Consultants",
+      "metaDescription": "Hire dedicated cybersecurity experts and ethical hackers from Digitonix. Secure your source code, conduct penetration testing, and eliminate vulnerabilities today.",
+      "metaKeywords": "hire cybersecurity experts, ethical hackers remote, web application penetration testing, network security consultant, infoSec audit India",
+      "ogTitle": "Hire Dedicated Cybersecurity Consultants | Digitonix",
+      "ogDescription": "Protect your digital assets from dangerous data breaches. Hire certified infoSec experts for comprehensive code and server vulnerability auditing.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "Cybersecurity Experts",
+        "description": "Secure your enterprise applications, patch dangerous server vulnerabilities, and prevent devastating data breaches. Our cybersecurity specialists conduct rigorous black-box penetration testing and code audits.",
+        "trustPoints": [
+          "Certified Ethical Hackers (CEH)",
+          "OWASP Top 10 Auditing",
+          "Thorough Network Penetration",
+          "Complete Compliance Readiness"
+        ],
+        "ctaText": "Secure Your Assets",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View Security Profile",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/security-hero.jpg"
+      },
+      "overview": {
+        "tag": "Asset Hardening",
+        "title": "Why Hire Our",
+        "highlightedWord": "Cybersecurity",
+        "subtitle": "Analysts?",
+        "description": "A single data security breach can destroy consumer trust and cause immense legal damage. Our ethical security experts think exactly like malicious hackers, digging deep into your backend code logic, APIs, and cloud infrastructure leaks.",
+        "description2": "They deliver comprehensive vulnerability logs containing explicit proof-of-concept steps and clear remediation guidelines so your developers can patch issues fast.",
+        "keyPoints": [
+          "Web Application VAPT",
+          "Source Code Security Auditing",
+          "Cloud Infrastructure Hardening",
+          "OWASP Compliance Verification"
+        ],
+        "benefits": [
+          {
+            "title": "Prevent Data Leaks",
+            "description": "Proactively locate and seal access flaws before real attackers exploit them."
+          },
+          {
+            "title": "Regulatory Compliance",
+            "description": "Ensure your product architectures align with strict standards like SOC2, HIPAA, or GDPR rules."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Choose Us",
+        "title": "Why Hire",
+        "highlightedWord": "Ethical Hackers",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Shield",
+            "title": "Zero Disruptions Audits",
+            "description": "We test your staging sandboxes meticulously to avoid causing accidental disruptions to live traffic operations."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Security",
+        "highlightedWord": "Capabilities",
+        "description": "Standards and toolsets our ethical hacking division commands natively.",
+        "skills": [
+          "Penetration Testing (VAPT)",
+          "OWASP Top 10 Frameworks",
+          "Burp Suite Professional",
+          "Static Application Testing (SAST)",
+          "API Security Auditing",
+          "IAM Cloud Configuration Review",
+          "SSL/TLS Encryption Tuning",
+          "Vulnerability Patching Guides"
+        ]
+      },
+      "process": {
+        "tag": "Audit Journey",
+        "title": "Our Security",
+        "highlightedWord": "Workflow",
+        "description": "A meticulous, safe testing blueprint designed for maximum asset protection.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Information Gathering",
+            "description": "We map your application scope boundaries and determine high priority target interfaces.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Strategic",
+        "highlightedWord": "Audit Models",
+        "description": "Hire specialized penetration testers for explicit security evaluation sprints.",
+        "models": [
+          {
+            "name": "Full Security Audit",
+            "price": "Custom Quote",
+            "features": [
+              "Complete app VAPT scanning",
+              "Detailed exploit report logs",
+              "Free re-testing after developer patching"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Security Milestones",
+        "title": "Cybersecurity",
+        "highlightedWord": "Case Studies",
+        "description": "How we discovered and safely patched critical logical flaws.",
+        "studies": [
+          {
+            "title": "Fintech Platform Security Hardening",
+            "description": "Conducted a black-box audit on an online banking API layer, identifying and patching 3 high-severity authentication bypass bugs safely.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-0?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/security-fintech-audit",
+            "category": "Penetration Testing"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Answered",
+        "faqs": [
+          {
+            "question": "What kind of report document do we receive?",
+            "answer": "You get an exhaustive PDF outlining all found threats, risk metrics, step-by-step reproduction videos, and structural source code remediation recommendations."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Tech Nodes",
+        "technologies": [
+          {
+            "title": "DevOps Engineer",
+            "slug": "devops-engineer",
+            "icon": "GitBranch"
+          },
+          {
+            "title": "AWS Cloud Architect",
+            "slug": "aws-cloud-architect",
+            "icon": "Cloud"
+          }
+        ]
+      }
+    },
+    {
+      "slug": "data-analyst",
+      "technology": "Data Analytics",
+      "breadcrumb": "Hire Data Analysts",
+      "category": "Data Science",
+      "icon": "BarChart",
+      "metaTitle": "Hire Data Analysts | Dedicated PowerBI & Tableau Experts",
+      "metaDescription": "Hire dedicated data analysts from Digitonix to turn messy business metrics into clean interactive dashboards. Tableau, PowerBI, SQL specialists ready.",
+      "metaKeywords": "hire data analysts, remote data specialist, hire powerBI developer, hire tableau engineer, data visualization consultant India",
+      "ogTitle": "Hire Remote Data Analytics Experts | Digitonix",
+      "ogDescription": "Stop making blind business decisions. Hire certified data analysts to clean raw records and extract clear growth insight charts.",
+      "hero": {
+        "title": "Hire",
+        "highlightedWord": "Data Analysts",
+        "description": "Convert complex, disjointed company datasets into beautiful, clear and fully interactive analytics dashboards. Our data specialists uncover hidden patterns utilizing SQL, Tableau, PowerBI, and custom Python data frameworks.",
+        "trustPoints": [
+          "60+ Visual Dashboards Formed",
+          "PowerBI & Tableau Experts",
+          "Advanced SQL Data Mining",
+          "Clear Business Analytics Insights"
+        ],
+        "ctaText": "Hire Data Analyst",
+        "ctaLink": "/contact",
+        "secondaryCtaText": "View Data Dashboards",
+        "secondaryCtaLink": "/portfolio",
+        "heroImage": "/hire/data-hero.jpg"
+      },
+      "overview": {
+        "tag": "Business Insights",
+        "title": "Why Hire Our",
+        "highlightedWord": "Data Analytics",
+        "subtitle": "Professionals?",
+        "description": "Modern businesses are overflowing with raw analytical logs, but very few know how to extract actionable value from them. Our data analysts build clear pipeline processing scripts to cleanse noise and link isolated data warehouses together smoothly.",
+        "description2": "They craft executive performance graphs, cohort retention indicators, and operational metrics so company leadership can make decisions rooted strictly in factual data.",
+        "keyPoints": [
+          "Data Extraction & Cleansing",
+          "Interactive Dashboard Layouts",
+          "Statistical Metric Analysis",
+          "KPI Measurement Engineering"
+        ],
+        "benefits": [
+          {
+            "title": "Fact-Based Decisions",
+            "description": "Replace stressful guessing routines with concrete historical metric visualizations."
+          },
+          {
+            "title": "Unified Data Hubs",
+            "description": "Merge metrics across disparate sources like Stripe, GA4, and custom SQL databases into a single interface."
+          }
+        ]
+      },
+      "whyHire": {
+        "tag": "Why Us",
+        "title": "Why Hire",
+        "highlightedWord": "Data Specialists",
+        "subtitle": "From Digitonix?",
+        "reasons": [
+          {
+            "icon": "Users",
+            "title": "Business Mindset Team",
+            "description": "Our analysts don't just manipulate numbers; they understand operational growth mechanics and conversion loops deeply."
+          }
+        ]
+      },
+      "skills": {
+        "title": "Our Analysts'",
+        "highlightedWord": "Tool Suite",
+        "description": "Framework technologies our data science squad deploys expert control over.",
+        "skills": [
+          "Microsoft PowerBI",
+          "Tableau Desktop / Online",
+          "Advanced SQL (Joins/CTEs)",
+          "Python (Pandas & Seaborn)",
+          "Excel Advanced Formulations",
+          "Data Cleansing & ETL workflows",
+          "Google Analytics 4 Tracking",
+          "Data Warehousing Concepts"
+        ]
+      },
+      "process": {
+        "tag": "Analytics Flow",
+        "title": "How We",
+        "highlightedWord": "Analyze",
+        "description": "A very logical translation of messy logs into pristine operational dashboards.",
+        "steps": [
+          {
+            "step": "01",
+            "title": "Data Pipeline Mapping",
+            "description": "We isolate your storage endpoints, system schemas, and key tracking parameters.",
+            "icon": "Search"
+          }
+        ]
+      },
+      "engagementModels": {
+        "title": "Scalable",
+        "highlightedWord": "Analytics Sprints",
+        "description": "Secure dedicated database analytics support matched to company roadmap requirements.",
+        "models": [
+          {
+            "name": "Dashboard Contract",
+            "price": "Custom Quote",
+            "features": [
+              "Complete data cleaning script setups",
+              "Custom automated dashboard creation",
+              "User training review calls included"
+            ],
+            "popular": true
+          }
+        ]
+      },
+      "caseStudies": {
+        "tag": "Data Stories",
+        "title": "Analytics",
+        "highlightedWord": "In Action",
+        "description": "Real operational value unlocked through visual metrics mapping.",
+        "studies": [
+          {
+            "title": "SaaS Churn Metrics Modeling",
+            "description": "Connected customer activity tracking logs into a unified PowerBI board, helping a SaaS startup locate and curb 25% of user abandonment leaks.",
+            "imageUrl": "https://images.unsplash.com/photo-1460925895917-2?auto=format&fit=crop&w=800&q=80",
+            "link": "/portfolio/saas-churn-analytics",
+            "category": "SaaS Analytics"
+          }
+        ]
+      },
+      "faq": {
+        "title": "FAQs",
+        "highlightedWord": "Answered",
+        "faqs": [
+          {
+            "question": "Can you design dashboards that pull information automatically in real-time?",
+            "answer": "Yes, we write scheduled query routines and hook up API parameters so your Tableau or PowerBI visuals refresh completely automatically."
+          }
+        ]
+      },
+      "relatedTechnologies": {
+        "title": "Related",
+        "highlightedWord": "Tech Matrix",
+        "technologies": [
+          {
+            "title": "Database Engineer",
+            "slug": "database-engineer",
+            "icon": "Database"
+          },
+          {
+            "title": "Python Developer",
+            "slug": "python-developer",
+            "icon": "Cpu"
+          }
+        ]
+      }
+    }
+  ]
+}

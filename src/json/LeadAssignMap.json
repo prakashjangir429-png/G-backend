@@ -1,0 +1,339 @@
+[
+  {
+    "formId": "2027649744634555",
+    "campaign_id": "Italy | Bangalore | 13_mar_2026",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33",
+      "68fc7adcaf8a8141ebe7257a"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1257894415682387",
+    "campaign_id": "Italy | Mumbai | 13_march_2026 ",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "2774063569616736",
+    "campaign_id": "Germany | Bangalore | 13_mar_2026 - 2774063569616736",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33",
+      "68fc7adcaf8a8141ebe7257a"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "966877269001689",
+    "campaign_id": "Germany | Mumbai | 13_mar_2026 - 966877269001689",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "945865421510095",
+    "campaign_id": "5. Germany | Delhi | 13_march_2026 - 945865421510095 ",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68ff57a3a22ea2bcbd574d33",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "1318539813368863",
+    "campaign_id": "Italy | Delhi | 01_mar_2026",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68ff57a3a22ea2bcbd574d33",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1339447648209712",
+    "campaign_id": "Bangalore | Dubai | 09_mar_2026",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33",
+      "68fc7adcaf8a8141ebe7257a"
+    ],
+    "lastAssignedIndex": -1
+  },
+  {
+    "formId": "1486675843071639",
+    "campaign_id": "Bangalore | France | 07_mar_2026",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33",
+      "68fc7adcaf8a8141ebe7257a"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "921596493852986",
+    "campaign_id": "Bangalore | Italy | 07_mar_2026\t",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33",
+      "68fc7adcaf8a8141ebe7257a"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "1922244412008493",
+    "campaign_id": "Bangalore| UK| December - 16 - 2025",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33",
+      "68fc7adcaf8a8141ebe7257a"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "1257524446356213",
+    "campaign_id": "Bangalore | Germany | December 2025",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33",
+      "68fc7adcaf8a8141ebe7257a"
+    ],
+    "lastAssignedIndex": -1
+  },
+  {
+    "formId": "1957040875169423",
+    "campaign_id": "Delhi | France | 07_mar_2026\t",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68ff57a3a22ea2bcbd574d33",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "26639389895658396",
+    "campaign_id": "Delhi | Dubai | 09_mar_2026",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68ff57a3a22ea2bcbd574d33",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "886555730477318",
+    "campaign_id": "Delhi New | Germany | Dec 2025",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68fca9ab2342af01fff255cb",
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "25293349916940599",
+    "campaign_id": "Delhi | UK| December 2025",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68fca9ab2342af01fff255cb",
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": -1
+  },
+  {
+    "formId": "2061600321050517",
+    "campaign_id": "Mumbai | Germany | 12_mar_2026 - 2061600321050517",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1453845796376201",
+    "campaign_id": "Mumbai | Italy | 12_mar_2026 - 1453845796376201",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1248829047354379",
+    "campaign_id": "Mumbai | Dubai | 12_mar_2026 - 1248829047354379",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": -1
+  },
+  {
+    "formId": "728213726924274",
+    "campaign_id": "3. Mumbai | UK | 12_mar_2025 -  728213726924274",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1203272524941734",
+    "campaign_id": "Germany | Uttarakhand, Up & Haryana for Delhi Branch | 15 March 2026  1203272524941734",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": -1
+  },
+  {
+    "formId": "2111416906300896",
+    "campaign_id": "Germany | Mumbai | 16_mar_2026 - 2111416906300896 ",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "2045493972847600",
+    "campaign_id": "Germany | Bangalore | 16_mar_2026 - 2045493972847600",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33",
+      "68fc7adcaf8a8141ebe7257a"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "766407406311251",
+    "campaign_id": "Germany | Delhi | 16_mar_2026 -  766407406311251",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "1396445555501425",
+    "campaign_id": "Delhi 2 | Germany | 14_mar_2026",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "2352059911939926",
+    "campaign_id": "Delhi | Italy 2 | 14_mar_206",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "873778138930342",
+    "campaign_id": "Delhi | UK| December 2025",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1334217485210752",
+    "campaign_id": "delhi",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1452303339668803",
+    "campaign_id": "Delhi..",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "1980340962577357",
+    "campaign_id": "Germany | Mumbai | 13_mar_2026",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1262734869284170",
+    "campaign_id": "Delhi 2",
+    "counselors": [
+      "68fca9ab2342af01fff255cb",
+      "68fcaa8e2342af01fff255e5"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "935705599418373",
+    "campaign_id": "bangalore",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33",
+      "68fc7adcaf8a8141ebe7257a"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "1876556133011619",
+    "campaign_id": "bangalore 2",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33",
+      "68fc7adcaf8a8141ebe7257a"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "1661187368665829",
+    "campaign_id": "Delhi | Italy | 14_mar_2026",
+    "counselors": [
+      "68fcaa8e2342af01fff255e5",
+      "68fca9ab2342af01fff255cb"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1683404439321384",
+    "campaign_id": "Bangalore",
+    "counselors": [
+      "68fc7adcaf8a8141ebe7257a",
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 1
+  },
+  {
+    "formId": "1359399449564123",
+    "campaign_id": "mumbai",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1588763925567854",
+    "campaign_id": "mambai 2",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1525259348968757",
+    "campaign_id": "Mumbai...",
+    "counselors": [
+      "68ff57a3a22ea2bcbd574d33"
+    ],
+    "lastAssignedIndex": 0
+  },
+  {
+    "formId": "1904427176864342",
+    "campaign_id": "Delhi",
+    "counselors": [
+      "68fca9ab2342af01fff255cb",
+      "68fcaa8e2342af01fff255e5"
+    ],
+    "lastAssignedIndex": 1
+  }
+]
