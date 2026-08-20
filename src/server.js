@@ -75,7 +75,8 @@ const allowedOrigins = [
   "http://localhost:5173",
   "https://6dtmqkkr-5173.inc1.devtunnels.ms",
   "https://portal-virid-eta.vercel.app",
-  "https://m8j3lq9z-5173.inc1.devtunnels.ms"
+  "https://m8j3lq9z-5173.inc1.devtunnels.ms",
+  "https://admin-main-nu.vercel.app"
 ];
 // app.use(cors());
 
