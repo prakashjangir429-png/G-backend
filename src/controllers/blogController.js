@@ -93,7 +93,7 @@ export async function getAllBlogs(req, res) {
             limit = 10,
             sortBy = "createdAt",
             sortOrder = "desc",
-            status = "draft",
+            status ,
             category,
             featured,
             search,
